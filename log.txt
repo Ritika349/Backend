@@ -1,0 +1,23 @@
+1714721998588: GET /users ::1New Request Received
+
+ 1714722103044: GET /users ::1
+ 1714722122680: PATCH /api/users/1 ::1
+ 1714722132190: DELETE /api/users/1 ::1
+ 1714990803400: GET /users ::1
+ 1714990803685: GET /favicon.ico ::1
+ 1714992267526: POST /user/ ::1
+ 1714992299334: POST /api/user/ ::1
+ 1714992308392: POST /api/users/ ::1
+ 1714992672099: POST /api/users/ ::1
+ 1714992704734: POST /api/users/ ::1
+ 1714992828528: POST /api/users/ ::1
+ 1714993287183: POST /users/ ::1
+ 1714993472713: GET /users/ ::1
+ 1714993819985: GET /api/users/1 ::1
+ 1714993982184: GET /api/users/6638b640254ecc7b0cc6ec31 ::1
+ 1714994354661: GET /api/users/6638b6bc254ecc7b0cc6ec33 ::1
+ 1714994367968: PATCH /api/users/6638b6bc254ecc7b0cc6ec33 ::1
+ 1714994426444: GET /api/users/6638b6bc254ecc7b0cc6ec33 ::1
+ 1714994634508: DELETE /api/users/6638b6bc254ecc7b0cc6ec33 ::1
+ 1714994705258: GET /api/users/ ::1
+ 1714994712796: GET /users/ ::1
